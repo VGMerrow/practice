@@ -1,0 +1,24 @@
+﻿using System;
+namespace Hello
+{
+    class Fibonacci
+    {
+        static void Main(string[] args)
+        {
+            int a, b;
+            a = 0;
+            b = 1;
+            Console.Write("Enter sequence length: ");
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 0; i <= n; i++)
+            {
+                int fib = a;
+                a = b;
+                b = fib + a;
+                Console.WriteLine("Fibonacci sequence : "+fib);
+            }
+            Console.WriteLine("End of sequence");
+            Console.Read();
+        }
+    }
+}

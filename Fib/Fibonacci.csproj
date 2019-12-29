@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Fibonacci</PackageId>
+    <Authors>Astrain</Authors>
+    <Company>Astrain</Company>
+    <Description>Fibonacci sequence</Description>
+  </PropertyGroup>
+
+</Project>

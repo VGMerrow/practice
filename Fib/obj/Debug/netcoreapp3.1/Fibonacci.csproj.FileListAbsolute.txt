@@ -1,0 +1,10 @@
+C:\Users\Astrain\source\repos\Hello\Hello\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\Astrain\source\repos\Hello\Hello\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\Astrain\source\repos\Hello\Hello\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\Astrain\source\repos\Hello\Hello\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Astrain\source\repos\Hello\Hello\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Astrain\source\repos\Hello\Hello\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Astrain\source\repos\Hello\Hello\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Astrain\source\repos\Hello\Hello\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Astrain\source\repos\Hello\Hello\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Astrain\source\repos\Hello\Hello\obj\Debug\netcoreapp3.1\Fibonacci.pdb
